@@ -8,11 +8,11 @@ const config = {
   url: 'https://cienai.github.io',
 
   // ✅ Must match your repo name exactly
-  baseUrl: '/cien-api-docs/',
+  baseUrl: '/docs/',
 
   // ✅ GitHub Pages deployment config
   organizationName: 'cienai',
-  projectName: 'cien-api-docs',
+  projectName: 'docs',
 
   trailingSlash: false,
 
