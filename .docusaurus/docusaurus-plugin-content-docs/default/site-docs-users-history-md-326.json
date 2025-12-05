@@ -1,0 +1,19 @@
+{
+  "id": "users_history",
+  "title": "users_history Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/users_history.md",
+  "sourceDirName": ".",
+  "slug": "/users_history",
+  "permalink": "/cien-api-docs/users_history",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "users_activities Entity",
+    "permalink": "/cien-api-docs/users_activities"
+  }
+}

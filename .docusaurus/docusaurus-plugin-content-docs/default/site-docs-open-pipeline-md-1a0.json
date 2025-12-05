@@ -1,0 +1,23 @@
+{
+  "id": "open_pipeline",
+  "title": "open_pipeline Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/open_pipeline.md",
+  "sourceDirName": ".",
+  "slug": "/open_pipeline",
+  "permalink": "/cien-api-docs/open_pipeline",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "metadata_reference_values Entity",
+    "permalink": "/cien-api-docs/metadata_reference_values"
+  },
+  "next": {
+    "title": "opp_line_items Entity",
+    "permalink": "/cien-api-docs/opp_line_items"
+  }
+}

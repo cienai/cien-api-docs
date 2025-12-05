@@ -1,0 +1,23 @@
+{
+  "id": "ssr_history_stakeholders",
+  "title": "ssr_history_stakeholders Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/ssr_history_stakeholders.md",
+  "sourceDirName": ".",
+  "slug": "/ssr_history_stakeholders",
+  "permalink": "/cien-api-docs/ssr_history_stakeholders",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "ssr_history Entity",
+    "permalink": "/cien-api-docs/ssr_history"
+  },
+  "next": {
+    "title": "ssr_history_success_factors Entity",
+    "permalink": "/cien-api-docs/ssr_history_success_factors"
+  }
+}

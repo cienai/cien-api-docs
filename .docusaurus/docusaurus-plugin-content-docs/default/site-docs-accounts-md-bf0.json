@@ -1,0 +1,23 @@
+{
+  "id": "accounts",
+  "title": "accounts Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/accounts.md",
+  "sourceDirName": ".",
+  "slug": "/accounts",
+  "permalink": "/cien-api-docs/accounts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "Cien API Docs",
+    "permalink": "/cien-api-docs/intro"
+  },
+  "next": {
+    "title": "activities Entity",
+    "permalink": "/cien-api-docs/activities"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "users",
+  "title": "users Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/users.md",
+  "sourceDirName": ".",
+  "slug": "/users",
+  "permalink": "/cien-api-docs/users",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "ssr_history_success_factors Entity",
+    "permalink": "/cien-api-docs/ssr_history_success_factors"
+  },
+  "next": {
+    "title": "users_activities Entity",
+    "permalink": "/cien-api-docs/users_activities"
+  }
+}

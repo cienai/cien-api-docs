@@ -1,0 +1,178 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/cien-api-docs/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/cien-api-docs/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "accounts",
+              "path": "/cien-api-docs/accounts",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "activities",
+              "path": "/cien-api-docs/activities",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "aliasing",
+              "path": "/cien-api-docs/aliasing",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "companies_history",
+              "path": "/cien-api-docs/companies_history",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "contacts",
+              "path": "/cien-api-docs/contacts",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "erp_accounts",
+              "path": "/cien-api-docs/erp_accounts",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "erp_orders",
+              "path": "/cien-api-docs/erp_orders",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "groups",
+              "path": "/cien-api-docs/groups",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "hat_leads",
+              "path": "/cien-api-docs/hat_leads",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "hr_users",
+              "path": "/cien-api-docs/hr_users",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/cien-api-docs/intro",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "leads",
+              "path": "/cien-api-docs/leads",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "metadata_ai_scores",
+              "path": "/cien-api-docs/metadata_ai_scores",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "metadata_graphics",
+              "path": "/cien-api-docs/metadata_graphics",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "metadata_heatmap_items",
+              "path": "/cien-api-docs/metadata_heatmap_items",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "metadata_reference_values",
+              "path": "/cien-api-docs/metadata_reference_values",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "open_pipeline",
+              "path": "/cien-api-docs/open_pipeline",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "opp_line_items",
+              "path": "/cien-api-docs/opp_line_items",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "opps",
+              "path": "/cien-api-docs/opps",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "opps_histories",
+              "path": "/cien-api-docs/opps_histories",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "opps_stages",
+              "path": "/cien-api-docs/opps_stages",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "pipelines",
+              "path": "/cien-api-docs/pipelines",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "products",
+              "path": "/cien-api-docs/products",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "ssr",
+              "path": "/cien-api-docs/ssr",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "ssr_history",
+              "path": "/cien-api-docs/ssr_history",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "ssr_history_stakeholders",
+              "path": "/cien-api-docs/ssr_history_stakeholders",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "ssr_history_success_factors",
+              "path": "/cien-api-docs/ssr_history_success_factors",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "users",
+              "path": "/cien-api-docs/users",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "users_activities",
+              "path": "/cien-api-docs/users_activities",
+              "sidebar": "apiSidebar"
+            },
+            {
+              "id": "users_history",
+              "path": "/cien-api-docs/users_history",
+              "sidebar": "apiSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "apiSidebar": {
+              "link": {
+                "path": "/cien-api-docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

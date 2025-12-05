@@ -1,0 +1,23 @@
+{
+  "id": "metadata_reference_values",
+  "title": "metadata_reference_values Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/metadata_reference_values.md",
+  "sourceDirName": ".",
+  "slug": "/metadata_reference_values",
+  "permalink": "/cien-api-docs/metadata_reference_values",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "metadata_heatmap_items Entity",
+    "permalink": "/cien-api-docs/metadata_heatmap_items"
+  },
+  "next": {
+    "title": "open_pipeline Entity",
+    "permalink": "/cien-api-docs/open_pipeline"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "opps",
+  "title": "opps Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/opps.md",
+  "sourceDirName": ".",
+  "slug": "/opps",
+  "permalink": "/cien-api-docs/opps",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "opp_line_items Entity",
+    "permalink": "/cien-api-docs/opp_line_items"
+  },
+  "next": {
+    "title": "opps_histories Entity",
+    "permalink": "/cien-api-docs/opps_histories"
+  }
+}

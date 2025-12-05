@@ -1,0 +1,23 @@
+{
+  "id": "groups",
+  "title": "groups Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/groups.md",
+  "sourceDirName": ".",
+  "slug": "/groups",
+  "permalink": "/cien-api-docs/groups",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "erp_orders Entity",
+    "permalink": "/cien-api-docs/erp_orders"
+  },
+  "next": {
+    "title": "hat_leads Entity",
+    "permalink": "/cien-api-docs/hat_leads"
+  }
+}

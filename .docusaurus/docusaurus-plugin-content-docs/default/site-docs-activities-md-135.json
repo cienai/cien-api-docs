@@ -1,0 +1,23 @@
+{
+  "id": "activities",
+  "title": "activities Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/activities.md",
+  "sourceDirName": ".",
+  "slug": "/activities",
+  "permalink": "/cien-api-docs/activities",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "accounts Entity",
+    "permalink": "/cien-api-docs/accounts"
+  },
+  "next": {
+    "title": "aliasing Entity",
+    "permalink": "/cien-api-docs/aliasing"
+  }
+}

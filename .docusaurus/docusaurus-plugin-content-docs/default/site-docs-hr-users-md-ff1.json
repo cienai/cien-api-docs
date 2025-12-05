@@ -1,0 +1,23 @@
+{
+  "id": "hr_users",
+  "title": "hr_users Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/hr_users.md",
+  "sourceDirName": ".",
+  "slug": "/hr_users",
+  "permalink": "/cien-api-docs/hr_users",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "hat_leads Entity",
+    "permalink": "/cien-api-docs/hat_leads"
+  },
+  "next": {
+    "title": "leads Entity",
+    "permalink": "/cien-api-docs/leads"
+  }
+}

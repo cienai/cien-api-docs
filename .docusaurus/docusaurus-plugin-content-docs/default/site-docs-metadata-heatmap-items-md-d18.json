@@ -1,0 +1,23 @@
+{
+  "id": "metadata_heatmap_items",
+  "title": "metadata_heatmap_items Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/metadata_heatmap_items.md",
+  "sourceDirName": ".",
+  "slug": "/metadata_heatmap_items",
+  "permalink": "/cien-api-docs/metadata_heatmap_items",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "metadata_graphics Entity",
+    "permalink": "/cien-api-docs/metadata_graphics"
+  },
+  "next": {
+    "title": "metadata_reference_values Entity",
+    "permalink": "/cien-api-docs/metadata_reference_values"
+  }
+}

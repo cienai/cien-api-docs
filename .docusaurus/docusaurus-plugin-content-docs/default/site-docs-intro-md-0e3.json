@@ -1,0 +1,21 @@
+{
+  "id": "intro",
+  "title": "Cien API Docs",
+  "description": "Welcome to your API schema documentation.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/cien-api-docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Cien API Docs"
+  },
+  "sidebar": "apiSidebar",
+  "next": {
+    "title": "accounts Entity",
+    "permalink": "/cien-api-docs/accounts"
+  }
+}

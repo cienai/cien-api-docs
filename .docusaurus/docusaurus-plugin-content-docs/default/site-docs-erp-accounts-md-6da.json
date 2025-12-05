@@ -1,0 +1,23 @@
+{
+  "id": "erp_accounts",
+  "title": "erp_accounts Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/erp_accounts.md",
+  "sourceDirName": ".",
+  "slug": "/erp_accounts",
+  "permalink": "/cien-api-docs/erp_accounts",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "contacts Entity",
+    "permalink": "/cien-api-docs/contacts"
+  },
+  "next": {
+    "title": "erp_orders Entity",
+    "permalink": "/cien-api-docs/erp_orders"
+  }
+}

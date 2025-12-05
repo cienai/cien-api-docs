@@ -1,0 +1,23 @@
+{
+  "id": "hat_leads",
+  "title": "hat_leads Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/hat_leads.md",
+  "sourceDirName": ".",
+  "slug": "/hat_leads",
+  "permalink": "/cien-api-docs/hat_leads",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "groups Entity",
+    "permalink": "/cien-api-docs/groups"
+  },
+  "next": {
+    "title": "hr_users Entity",
+    "permalink": "/cien-api-docs/hr_users"
+  }
+}

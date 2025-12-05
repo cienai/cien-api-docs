@@ -1,0 +1,23 @@
+{
+  "id": "metadata_graphics",
+  "title": "metadata_graphics Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/metadata_graphics.md",
+  "sourceDirName": ".",
+  "slug": "/metadata_graphics",
+  "permalink": "/cien-api-docs/metadata_graphics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "metadata_ai_scores Entity",
+    "permalink": "/cien-api-docs/metadata_ai_scores"
+  },
+  "next": {
+    "title": "metadata_heatmap_items Entity",
+    "permalink": "/cien-api-docs/metadata_heatmap_items"
+  }
+}

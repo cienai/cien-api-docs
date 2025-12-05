@@ -1,0 +1,23 @@
+{
+  "id": "ssr_history",
+  "title": "ssr_history Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/ssr_history.md",
+  "sourceDirName": ".",
+  "slug": "/ssr_history",
+  "permalink": "/cien-api-docs/ssr_history",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "ssr Entity",
+    "permalink": "/cien-api-docs/ssr"
+  },
+  "next": {
+    "title": "ssr_history_stakeholders Entity",
+    "permalink": "/cien-api-docs/ssr_history_stakeholders"
+  }
+}

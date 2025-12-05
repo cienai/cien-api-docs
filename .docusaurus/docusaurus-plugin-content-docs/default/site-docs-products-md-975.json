@@ -1,0 +1,23 @@
+{
+  "id": "products",
+  "title": "products Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/products.md",
+  "sourceDirName": ".",
+  "slug": "/products",
+  "permalink": "/cien-api-docs/products",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "pipelines Entity",
+    "permalink": "/cien-api-docs/pipelines"
+  },
+  "next": {
+    "title": "ssr Entity",
+    "permalink": "/cien-api-docs/ssr"
+  }
+}

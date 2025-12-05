@@ -1,0 +1,23 @@
+{
+  "id": "opps_stages",
+  "title": "opps_stages Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/opps_stages.md",
+  "sourceDirName": ".",
+  "slug": "/opps_stages",
+  "permalink": "/cien-api-docs/opps_stages",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "opps_histories Entity",
+    "permalink": "/cien-api-docs/opps_histories"
+  },
+  "next": {
+    "title": "pipelines Entity",
+    "permalink": "/cien-api-docs/pipelines"
+  }
+}

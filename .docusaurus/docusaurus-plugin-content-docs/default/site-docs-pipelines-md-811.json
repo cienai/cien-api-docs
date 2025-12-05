@@ -1,0 +1,23 @@
+{
+  "id": "pipelines",
+  "title": "pipelines Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/pipelines.md",
+  "sourceDirName": ".",
+  "slug": "/pipelines",
+  "permalink": "/cien-api-docs/pipelines",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "opps_stages Entity",
+    "permalink": "/cien-api-docs/opps_stages"
+  },
+  "next": {
+    "title": "products Entity",
+    "permalink": "/cien-api-docs/products"
+  }
+}

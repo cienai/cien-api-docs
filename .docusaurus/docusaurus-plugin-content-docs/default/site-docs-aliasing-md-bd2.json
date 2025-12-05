@@ -1,0 +1,23 @@
+{
+  "id": "aliasing",
+  "title": "aliasing Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/aliasing.md",
+  "sourceDirName": ".",
+  "slug": "/aliasing",
+  "permalink": "/cien-api-docs/aliasing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "activities Entity",
+    "permalink": "/cien-api-docs/activities"
+  },
+  "next": {
+    "title": "companies_history Entity",
+    "permalink": "/cien-api-docs/companies_history"
+  }
+}

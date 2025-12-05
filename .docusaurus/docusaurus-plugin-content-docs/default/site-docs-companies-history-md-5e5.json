@@ -1,0 +1,23 @@
+{
+  "id": "companies_history",
+  "title": "companies_history Entity",
+  "description": "| Field | Display Name | Type | Length | Description | Deprecated | Salesforce | MS Dynamics | Power BI |",
+  "source": "@site/docs/companies_history.md",
+  "sourceDirName": ".",
+  "slug": "/companies_history",
+  "permalink": "/cien-api-docs/companies_history",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "apiSidebar",
+  "previous": {
+    "title": "aliasing Entity",
+    "permalink": "/cien-api-docs/aliasing"
+  },
+  "next": {
+    "title": "contacts Entity",
+    "permalink": "/cien-api-docs/contacts"
+  }
+}
