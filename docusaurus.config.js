@@ -5,10 +5,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Site URLs
-  url: 'https://cienai.github.io',
-  baseUrl: '/docs/',
-  organizationName: 'cienai',
-  projectName: 'cien-api-docs',
+url: 'https://cienai.github.io',
+baseUrl: '/cien-api-docs/',
+organizationName: 'cienai',
+projectName: 'cien-api-docs',
 
   trailingSlash: false,
 
