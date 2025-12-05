@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Cien API Docs',
+  title: 'Cien API Documentation',
   tagline: 'Cien API field reference and data dictionary',
   favicon: 'img/favicon.ico',
 
@@ -29,7 +29,7 @@ const config = {
       'classic',
       {
         docs: {
-          routeBasePath: '/',
+          routeBasePath: "/",
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/cienai/cien-api-docs/edit/main/',
         },
