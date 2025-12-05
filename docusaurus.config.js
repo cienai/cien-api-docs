@@ -5,14 +5,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // ✅ Your real public URL
-  url: 'https://cienai.github.io',
-
-  // ✅ Must match your repo name exactly
-  baseUrl: '/docs/',
-
-  // ✅ GitHub Pages deployment config
-  organizationName: 'cienai',
-  projectName: 'docs',
+url: 'https://cienai.github.io',
+baseUrl: '/docs/',
+organizationName: 'cienai',
+projectName: 'cien-api-docs',
 
   trailingSlash: false,
 
@@ -25,21 +21,17 @@ const config = {
   },
 
   presets: [
-    [
-      'classic',
-      {
-        docs: {
-          routeBasePath: "/",
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/cienai/cien-api-docs/edit/main/',
-        },
-        blog: false,
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
+  [
+    'classic',
+    {
+      docs: {
+        routeBasePath: '/',   // docs appear at /docs/*
+        sidebarPath: require.resolve('./sidebars.js'),
       },
-    ],
-  ],
+      blog: false,
+    }
+  ]
+]
 
   themeConfig: {
     navbar: {
@@ -69,4 +61,4 @@ const config = {
   },
 };
 
-export default config;
+export default config

@@ -1,5 +1,4 @@
 ---
-slug: /
 title: Cien API Docs
 ---
 
