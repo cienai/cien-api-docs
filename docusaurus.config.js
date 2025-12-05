@@ -4,11 +4,11 @@ const config = {
   tagline: 'Cien API field reference and data dictionary',
   favicon: 'img/favicon.ico',
 
-  // ✅ Your real public URL
-url: 'https://cienai.github.io',
-baseUrl: '/docs/',
-organizationName: 'cienai',
-projectName: 'cien-api-docs',
+  // Site URLs
+  url: 'https://cienai.github.io',
+  baseUrl: '/docs/',
+  organizationName: 'cienai',
+  projectName: 'cien-api-docs',
 
   trailingSlash: false,
 
@@ -21,17 +21,17 @@ projectName: 'cien-api-docs',
   },
 
   presets: [
-  [
-    'classic',
-    {
-      docs: {
-        routeBasePath: '/',   // docs appear at /docs/*
-        sidebarPath: require.resolve('./sidebars.js'),
+    [
+      'classic',
+      {
+        docs: {
+          routeBasePath: '/',   // docs appear at /docs/*
+          sidebarPath: require.resolve('./sidebars.js'),
+        },
+        blog: false,
       },
-      blog: false,
-    }
-  ]
-]
+    ],
+  ],
 
   themeConfig: {
     navbar: {
@@ -61,4 +61,4 @@ projectName: 'cien-api-docs',
   },
 };
 
-export default config
+export default config;
