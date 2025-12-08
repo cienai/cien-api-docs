@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcien_api_docs=globalThis.webpackChunkcien_api_docs||[]).push([[489],{4546:(n,i,o)=>{function e(){return"undefined"!=typeof window&&(window.location.href="/docs/intro"),null}o.r(i),o.d(i,{default:()=>e})}}]);
